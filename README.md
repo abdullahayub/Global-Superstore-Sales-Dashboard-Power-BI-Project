@@ -20,4 +20,6 @@ o	Use POWER Query to transform the data by adding custom column and Creating mea
 
 o	After Transforming the data Connect them with Model view.
 
+**Dashboard View**
+
 ![dashboard](https://github.com/abdullahayub/Global-Superstore-Sales-Dashboard-Power-BI-Project/assets/37545634/5fd25cf5-1fb0-4a0d-a69a-95a26789bac8)
