@@ -22,4 +22,4 @@ o	After Transforming the data Connect them with Model view.
 
 **Dashboard View**
 
-![dashboard](https://github.com/abdullahayub/Global-Superstore-Sales-Dashboard-Power-BI-Project/assets/37545634/5fd25cf5-1fb0-4a0d-a69a-95a26789bac8)
+https://github.com/abdullahayub/Global-Superstore-Sales-Dashboard-Power-BI-Project/assets/37545634/9f8ef808-c414-4250-8aaa-d9895cfbb687
